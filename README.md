@@ -1,0 +1,3 @@
+- 👋 Hello, I’m Amr Salah
+- 🌱 I’m currently learning C++
+- 👀 I’m interested in ._.
