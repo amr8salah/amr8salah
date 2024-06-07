@@ -1,3 +1,3 @@
 - 👋 Hello, I’m Amr Salah
-- 🌱 I’m currently learning C++
-- 👀 I’m interested in ._.
+- 🌱 I’m currently learning Java
+- 👀 I’m interested in Front-end development
