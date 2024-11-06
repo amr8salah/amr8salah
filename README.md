@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @amr8salah
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Object-Oriented Programming
+- 📫 How to reach me email: amr.salah.alahmady@gmail.com
+- 🎓 Second year computer science student at Cairo University
