@@ -1,5 +1,14 @@
-- 👋 Hi, I’m @amr8salah
+- 👋 Hi, I’m Amr Salah
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Object-Oriented Programming
-- 📫 How to reach me email: amr.salah.alahmady@gmail.com
+- 🌱 I’m currently learning Algorithms and Data Structures
 - 🎓 Second year computer science student at Cairo University
+- 📫 Feel free to reach me
+        email: amr.salah.alahmady@gmail.com | LinkedIn: amr8salah
+
+Some Technologies I know:
+  - Java 
+  - C++
+  - NodeJS
+  - Python
+  - OOP
+  - Databases
